@@ -1,2 +1,2 @@
 # frontRoadMap
-https://github.com/imrafel/frontRoadMap/tree/master/singlePageCV
+https://roadmap.sh/projects/single-page-cv
